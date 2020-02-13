@@ -1,2 +1,2 @@
 # algolab
-My solutions for algolab 2019 @ETHZ
+My solutions for algolab 2019 @ETHZ [WIP]
